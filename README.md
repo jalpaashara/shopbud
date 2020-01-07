@@ -53,8 +53,8 @@ You can also add the platform(iOs or Android or browser if you want a webapp tha
 #### `ionic cordova platform add [ios|android|browser]`
 OR you can just restore the platform that I have used which is the browser mode using the following command.
 #### `ionic cordova build`
-Don't get scared if you see a www folder being created as well.
-www is the compiled code, every time you build your project the www content is erased and created again. You can also deploy your application on web using the code that's inside www folder.
+Don't get scared if you see a <b>www</b> folder being created as well.
+<b>www</b> is the compiled code, every time you build your project the www content is erased and created again. You can also deploy your application on the web using the code that is inside the <b>www</b> folder.
 
 <hr>
 
@@ -71,7 +71,7 @@ To run the app directly on your mobile (if you have windows machine then android
 use ios for iPhone and android for Android phones
 
 Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:8100](http://localhost:8100) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
