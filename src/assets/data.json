@@ -1,0 +1,1986 @@
+{
+  "from": 1,
+  "to": 5,
+  "currentPage": 1,
+  "total": 952,
+  "totalPages": 191,
+  "queryTime": "0.008",
+  "totalTime": "0.037",
+  "partial": false,
+  "canonicalUrl": "/v1/products((categoryPath.id=abcat0502000))?pageSize=5&format=json&apiKey=CX6zJGAA9UeiQAAm5D5McrsR",
+  "products": [
+    {
+      "sku": 4569205,
+      "score": null,
+      "productId": 1219769558153,
+      "name": "ASUS - Zenbook 13.3\" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Smoky Brown",
+      "source": "bestbuy",
+      "type": "HardGood",
+      "startDate": "2015-10-04",
+      "new": false,
+      "active": true,
+      "lowPriceGuarantee": true,
+      "activeUpdateDate": "2019-12-09T17:00:43",
+      "regularPrice": 836.99,
+      "salePrice": 836.99,
+      "clearance": false,
+      "onSale": false,
+      "planPrice": null,
+      "priceWithPlan": [],
+      "contracts": [],
+      "priceRestriction": null,
+      "priceUpdateDate": "2017-07-12T00:01:31",
+      "digital": false,
+      "preowned": false,
+      "carriers": [],
+      "planFeatures": [],
+      "devices": [],
+      "carrierPlans": [],
+      "technologyCode": null,
+      "carrierModelNumber": null,
+      "earlyTerminationFees": [],
+      "monthlyRecurringCharge": "",
+      "monthlyRecurringChargeGrandTotal": "",
+      "activationCharge": "",
+      "minutePrice": "",
+      "planCategory": null,
+      "planType": null,
+      "familyIndividualCode": null,
+      "validFrom": null,
+      "validUntil": null,
+      "carrierPlan": null,
+      "outletCenter": null,
+      "secondaryMarket": null,
+      "frequentlyPurchasedWith": [],
+      "accessories": [],
+      "relatedProducts": [],
+      "requiredParts": [],
+      "techSupportPlans": [],
+      "crossSell": [],
+      "salesRankShortTerm": null,
+      "salesRankMediumTerm": null,
+      "salesRankLongTerm": null,
+      "bestSellingRank": null,
+      "url": "https://api.bestbuy.com/click/-/4569205/pdp",
+      "spin360Url": null,
+      "mobileUrl": "https://api.bestbuy.com/click/-/4569205/pdp",
+      "affiliateUrl": null,
+      "addToCartUrl": "https://api.bestbuy.com/click/-/4569205/cart",
+      "affiliateAddToCartUrl": null,
+      "linkShareAffiliateUrl": "",
+      "linkShareAffiliateAddToCartUrl": "",
+      "upc": "889349172957",
+      "productTemplate": "Laptop_Computers",
+      "categoryPath": [
+        {
+          "id": "cat00000",
+          "name": "Best Buy"
+        },
+        {
+          "id": "abcat0500000",
+          "name": "Computers & Tablets"
+        },
+        {
+          "id": "abcat0502000",
+          "name": "Laptops"
+        },
+        {
+          "id": "pcmcat138500050001",
+          "name": "All Laptops"
+        },
+        {
+          "id": "pcmcat247400050000",
+          "name": "PC Laptops"
+        }
+      ],
+      "alternateCategories": [],
+      "lists": [],
+      "customerReviewCount": 23,
+      "customerReviewAverage": 4.1,
+      "customerTopRated": false,
+      "format": null,
+      "freeShipping": true,
+      "freeShippingEligible": false,
+      "inStoreAvailability": false,
+      "inStoreAvailabilityText": "Store Pickup: Not Available",
+      "inStoreAvailabilityUpdateDate": "2019-01-15T11:13:48",
+      "itemUpdateDate": "2019-12-12T01:31:27",
+      "onlineAvailability": false,
+      "onlineAvailabilityText": "Shipping: Not Available",
+      "onlineAvailabilityUpdateDate": "2017-08-15T08:05:40",
+      "releaseDate": null,
+      "shippingCost": 0,
+      "shipping": [],
+      "shippingLevelsOfService": [],
+      "specialOrder": false,
+      "shortDescription": "Windows 10Integrated graphicsTechnical details: Intel&#174; Core&#8482; i5 processor; 13.3\" display; 8GB memory; 256GB solid state driveSpecial features: Bluetooth; touch screenNote: DVD/CD drive not included",
+      "class": "MOBILE COMPUTING",
+      "classId": 140,
+      "subclass": "SO LAPTOPS",
+      "subclassId": 122,
+      "department": "COMPUTERS",
+      "departmentId": 6,
+      "protectionPlanTerm": "ASU",
+      "protectionPlanType": null,
+      "protectionPlanLowPrice": "",
+      "protectionPlanHighPrice": "",
+      "buybackPlans": [],
+      "protectionPlans": [],
+      "protectionPlanDetails": [],
+      "productFamilies": [],
+      "productVariations": [],
+      "aspectRatio": null,
+      "screenFormat": null,
+      "lengthInMinutes": null,
+      "mpaaRating": null,
+      "plot": null,
+      "studio": null,
+      "theatricalReleaseDate": null,
+      "description": null,
+      "manufacturer": "ASUS",
+      "modelNumber": "UX303UADH51T",
+      "images": [
+        {
+          "rel": "Front_Standard",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "332",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4569/4569205_sa.jpg",
+          "primary": true
+        },
+        {
+          "rel": "Alt_View_Standard_13",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "58",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4569/4569205cv13a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Standard_12",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "60",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4569/4569205cv12a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Standard_11",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "334",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4569/4569205cv11a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Front_Detail",
+          "unitOfMeasure": "pixels",
+          "width": "105",
+          "height": "70",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4569/4569205_sc.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Front_Medium",
+          "unitOfMeasure": "pixels",
+          "width": "70",
+          "height": "47",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4569/4569205fp.gif",
+          "primary": false
+        },
+        {
+          "rel": "Front_Thumbnail",
+          "unitOfMeasure": "pixels",
+          "width": "54",
+          "height": "36",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4569/4569205_s.gif",
+          "primary": false
+        },
+        {
+          "rel": "Front_Large",
+          "unitOfMeasure": "pixels",
+          "width": "220",
+          "height": "146",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4569/4569205_sb.jpg",
+          "primary": false
+        }
+      ],
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4569/4569205_sa.jpg",
+      "largeFrontImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4569/4569205_sb.jpg",
+      "mediumImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4569/4569205fp.gif",
+      "thumbnailImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4569/4569205_s.gif",
+      "largeImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4569/4569205_sb.jpg",
+      "alternateViewsImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4569/4569205cv11a.jpg",
+      "angleImage": null,
+      "backViewImage": null,
+      "energyGuideImage": null,
+      "leftViewImage": null,
+      "accessoriesImage": null,
+      "remoteControlImage": null,
+      "rightViewImage": null,
+      "topViewImage": null,
+      "albumTitle": "Zenbook 13.3\" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive",
+      "artistName": null,
+      "artistId": null,
+      "originalReleaseDate": null,
+      "parentalAdvisory": null,
+      "mediaCount": null,
+      "monoStereo": null,
+      "studioLive": null,
+      "condition": "New",
+      "inStorePickup": false,
+      "friendsAndFamilyPickup": false,
+      "homeDelivery": false,
+      "quantityLimit": 3,
+      "fulfilledBy": "BestBuy.com",
+      "members": [],
+      "bundledIn": [],
+      "albumLabel": null,
+      "genre": null,
+      "color": "Smoky Brown",
+      "depth": "8.8 inches",
+      "dollarSavings": 0,
+      "percentSavings": "0.0",
+      "tradeInValue": "",
+      "height": "0.8 inches",
+      "orderable": "SoldOut",
+      "weight": "3.2 pounds",
+      "shippingWeight": 3.2,
+      "width": "12.7 inches",
+      "warrantyLabor": "1 year limited",
+      "warrantyParts": "1 year",
+      "softwareAge": null,
+      "softwareGrade": null,
+      "platform": null,
+      "numberOfPlayers": null,
+      "softwareNumberOfPlayers": null,
+      "esrbRating": null,
+      "longDescription": "Asus Zenbook Laptop: Stay productive and entertained on the go with this lightweight laptop, which features a 13.3\" IPS touch screen that presents a 1920 x 1080 Full HD picture. Plus, connect to the Web at rapid speeds with the Wireless-AC LAN.",
+      "includedItemList": [
+        {
+          "includedItem": "Zenbook 13.3\" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive"
+        },
+        {
+          "includedItem": "3-cell lithium-ion battery"
+        },
+        {
+          "includedItem": "AC adapter"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "marketplace": false,
+      "listingId": null,
+      "sellerId": null,
+      "shippingRestrictions": null,
+      "proposition65WarningMessage": null,
+      "proposition65WarningType": "05",
+      "bluRayPlayer": false,
+      "bluetoothEnabled": true,
+      "displayType": "Other",
+      "driveCapacityGb": 256,
+      "energyStarQualified": false,
+      "ethernetPort": true,
+      "mobileOperatingSystem": "Windows 10 Home",
+      "screenSizeIn": 13.3,
+      "usbPort": true
+    },
+    {
+      "sku": 4599600,
+      "score": null,
+      "productId": null,
+      "name": "Apple - MacBook Pro - 13\" Display with Touch Bar - Intel Core i5 - 8GB Memory - 256GB SSD - Silver",
+      "source": "bestbuy",
+      "type": "HardGood",
+      "startDate": "2019-05-21",
+      "new": false,
+      "active": true,
+      "lowPriceGuarantee": false,
+      "activeUpdateDate": "2019-06-21T08:49:18",
+      "regularPrice": 1799.99,
+      "salePrice": 1799.99,
+      "clearance": false,
+      "onSale": false,
+      "planPrice": null,
+      "priceWithPlan": [],
+      "contracts": [],
+      "priceRestriction": null,
+      "priceUpdateDate": "2019-12-09T00:01:40",
+      "digital": false,
+      "preowned": false,
+      "carriers": [],
+      "planFeatures": [],
+      "devices": [],
+      "carrierPlans": [],
+      "technologyCode": null,
+      "carrierModelNumber": null,
+      "earlyTerminationFees": [],
+      "monthlyRecurringCharge": "",
+      "monthlyRecurringChargeGrandTotal": "",
+      "activationCharge": "",
+      "minutePrice": "",
+      "planCategory": null,
+      "planType": null,
+      "familyIndividualCode": null,
+      "validFrom": null,
+      "validUntil": null,
+      "carrierPlan": null,
+      "outletCenter": null,
+      "secondaryMarket": null,
+      "frequentlyPurchasedWith": [],
+      "accessories": [],
+      "relatedProducts": [],
+      "requiredParts": [],
+      "techSupportPlans": [],
+      "crossSell": [],
+      "salesRankShortTerm": null,
+      "salesRankMediumTerm": null,
+      "salesRankLongTerm": null,
+      "bestSellingRank": null,
+      "url": "https://api.bestbuy.com/click/-/4599600/pdp",
+      "spin360Url": null,
+      "mobileUrl": "https://api.bestbuy.com/click/-/4599600/pdp",
+      "affiliateUrl": null,
+      "addToCartUrl": "https://api.bestbuy.com/click/-/4599600/cart",
+      "affiliateAddToCartUrl": null,
+      "linkShareAffiliateUrl": "",
+      "linkShareAffiliateAddToCartUrl": "",
+      "upc": "190199114456",
+      "productTemplate": "Laptop_Computers",
+      "categoryPath": [
+        {
+          "id": "cat00000",
+          "name": "Best Buy"
+        },
+        {
+          "id": "abcat0500000",
+          "name": "Computers & Tablets"
+        },
+        {
+          "id": "abcat0502000",
+          "name": "Laptops"
+        },
+        {
+          "id": "pcmcat138500050001",
+          "name": "All Laptops"
+        },
+        {
+          "id": "pcmcat247400050001",
+          "name": "MacBooks"
+        },
+        {
+          "id": "pcmcat378600050009",
+          "name": "MacBook Pro"
+        }
+      ],
+      "alternateCategories": [],
+      "lists": [],
+      "customerReviewCount": 72,
+      "customerReviewAverage": 4.8,
+      "customerTopRated": true,
+      "format": null,
+      "freeShipping": true,
+      "freeShippingEligible": true,
+      "inStoreAvailability": true,
+      "inStoreAvailabilityText": "Store Pickup:",
+      "inStoreAvailabilityUpdateDate": "2019-06-21T09:13:46",
+      "itemUpdateDate": "2019-12-12T02:57:51",
+      "onlineAvailability": true,
+      "onlineAvailabilityText": "Shipping: Usually ships in 1 business day",
+      "onlineAvailabilityUpdateDate": "2019-06-21T09:13:46",
+      "releaseDate": null,
+      "shippingCost": 0,
+      "shipping": [
+        {
+          "ground": 0,
+          "secondDay": "",
+          "nextDay": "",
+          "vendorDelivery": ""
+        }
+      ],
+      "shippingLevelsOfService": [
+        {
+          "serviceLevelId": 10,
+          "serviceLevelName": "Same Day",
+          "unitShippingPrice": 5.99
+        },
+        {
+          "serviceLevelId": 13,
+          "serviceLevelName": "One Day",
+          "unitShippingPrice": 0
+        }
+      ],
+      "specialOrder": false,
+      "shortDescription": "MacBook Pro with a new eighth-generation quad-core Intel processor. Power your best work.",
+      "class": "MOBILE COMPUTING",
+      "classId": 140,
+      "subclass": "APPLE",
+      "subclassId": 5075,
+      "department": "COMPUTERS",
+      "departmentId": 6,
+      "protectionPlanTerm": "13-",
+      "protectionPlanType": null,
+      "protectionPlanLowPrice": "",
+      "protectionPlanHighPrice": "",
+      "buybackPlans": [],
+      "protectionPlans": [],
+      "protectionPlanDetails": [],
+      "productFamilies": [],
+      "productVariations": [
+        {
+          "sku": "4599600",
+          "variations": [
+            {
+              "name": "Desktop_and_Laptop_Computers:Total_Storage_Capacity",
+              "value": "256GB"
+            },
+            {
+              "name": "Electronics:Color",
+              "value": "Silver"
+            }
+          ]
+        },
+        {
+          "sku": "4599700",
+          "variations": [
+            {
+              "name": "Desktop_and_Laptop_Computers:Total_Storage_Capacity",
+              "value": "256GB"
+            },
+            {
+              "name": "Electronics:Color",
+              "value": "Space Gray"
+            }
+          ]
+        },
+        {
+          "sku": "4599800",
+          "variations": [
+            {
+              "name": "Desktop_and_Laptop_Computers:Total_Storage_Capacity",
+              "value": "512GB"
+            },
+            {
+              "name": "Electronics:Color",
+              "value": "Silver"
+            }
+          ]
+        },
+        {
+          "sku": "4599901",
+          "variations": [
+            {
+              "name": "Desktop_and_Laptop_Computers:Total_Storage_Capacity",
+              "value": "512GB"
+            },
+            {
+              "name": "Electronics:Color",
+              "value": "Space Gray"
+            }
+          ]
+        },
+        {
+          "sku": "5998602",
+          "variations": [
+            {
+              "name": "Desktop_and_Laptop_Computers:Total_Storage_Capacity",
+              "value": "256GB"
+            },
+            {
+              "name": "Electronics:Color",
+              "value": "Silver"
+            }
+          ]
+        }
+      ],
+      "aspectRatio": null,
+      "screenFormat": null,
+      "lengthInMinutes": null,
+      "mpaaRating": null,
+      "plot": null,
+      "studio": null,
+      "theatricalReleaseDate": null,
+      "description": null,
+      "manufacturer": "Apple",
+      "modelNumber": "MV992LL/A",
+      "images": [
+        {
+          "rel": "Front_Zoom",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "579",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600_sd.jpg",
+          "primary": true
+        },
+        {
+          "rel": "Front_Thumbnail",
+          "unitOfMeasure": "pixels",
+          "width": "54",
+          "height": "31",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600_s.gif",
+          "primary": false
+        },
+        {
+          "rel": "Front_Large",
+          "unitOfMeasure": "pixels",
+          "width": "220",
+          "height": "127",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600_sb.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Front_Medium",
+          "unitOfMeasure": "pixels",
+          "width": "70",
+          "height": "41",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600fp.gif",
+          "primary": false
+        },
+        {
+          "rel": "Front_Standard",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "289",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600_sa.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Standard_12",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "469",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600cv12a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Standard_11",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "253",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600cv11a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Standard_10",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "466",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600cv10a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Standard_14",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "225",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600cv14a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Standard_13",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "341",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600cv13a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Zoom_11",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "507",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600cv11d.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Zoom_12",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "938",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600cv12d.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Zoom_13",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "681",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600cv13d.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Zoom_14",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "450",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600cv14d.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Front_Detail",
+          "unitOfMeasure": "pixels",
+          "width": "105",
+          "height": "61",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600_sc.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Zoom_10",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "932",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600cv10d.jpg",
+          "primary": false
+        }
+      ],
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600_sa.jpg",
+      "largeFrontImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600_sd.jpg",
+      "mediumImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600fp.gif",
+      "thumbnailImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600_s.gif",
+      "largeImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600_sb.jpg",
+      "alternateViewsImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599600cv10d.jpg",
+      "angleImage": null,
+      "backViewImage": null,
+      "energyGuideImage": null,
+      "leftViewImage": null,
+      "accessoriesImage": null,
+      "remoteControlImage": null,
+      "rightViewImage": null,
+      "topViewImage": null,
+      "albumTitle": "MacBook Pro - 13\" Display with Touch Bar - Intel Core i5 - 8GB Memory - 256GB SSD",
+      "artistName": null,
+      "artistId": null,
+      "originalReleaseDate": null,
+      "parentalAdvisory": null,
+      "mediaCount": null,
+      "monoStereo": null,
+      "studioLive": null,
+      "condition": "New",
+      "inStorePickup": true,
+      "friendsAndFamilyPickup": true,
+      "homeDelivery": false,
+      "quantityLimit": 2,
+      "fulfilledBy": null,
+      "members": [],
+      "bundledIn": [],
+      "albumLabel": null,
+      "genre": null,
+      "color": "Silver",
+      "depth": "8.36 inches",
+      "dollarSavings": 0,
+      "percentSavings": "0.0",
+      "tradeInValue": "",
+      "height": "0.59 inches",
+      "orderable": "Available",
+      "weight": "3.02 pounds",
+      "shippingWeight": 5.65,
+      "width": "11.97 inches",
+      "warrantyLabor": "1 Year",
+      "warrantyParts": "1 Year",
+      "softwareAge": null,
+      "softwareGrade": null,
+      "platform": null,
+      "numberOfPlayers": null,
+      "softwareNumberOfPlayers": null,
+      "esrbRating": null,
+      "longDescription": "MacBook Pro has a new eighth-generation quad-core Intel processor with Turbo Boost up to 4.1GHz. A brilliant and colorful Retina display with True Tone technology for a more true-to-life viewing experience. The latest Apple-designed keyboard. And the versatile Touch Bar for more ways to be productive. It's Apple's most powerful 13-inch notebook. Pushed even further.",
+      "includedItemList": [
+        {
+          "includedItem": "61W USB-C power adapter"
+        },
+        {
+          "includedItem": "Apple MacBook Pro - 13\" Display with Touch Bar - Intel Core i5 - 8GB Memory - 256GB SSD"
+        },
+        {
+          "includedItem": "USB-C charge cable (2m)"
+        }
+      ],
+      "marketplace": null,
+      "listingId": null,
+      "sellerId": null,
+      "shippingRestrictions": null,
+      "proposition65WarningMessage": null,
+      "proposition65WarningType": "05",
+      "bluRayPlayer": false,
+      "bluetoothEnabled": true,
+      "displayType": "LED",
+      "energyStarQualified": true,
+      "headphoneJacks": true,
+      "mobileOperatingSystem": "Mac OS",
+      "screenSizeIn": 13.3
+    },
+    {
+      "sku": 4599700,
+      "score": null,
+      "productId": null,
+      "name": "Apple - MacBook Pro - 13\" Display with Touch Bar - Intel Core i5 - 8GB Memory - 256GB SSD - Space Gray",
+      "source": "bestbuy",
+      "type": "HardGood",
+      "startDate": "2019-05-21",
+      "new": false,
+      "active": true,
+      "lowPriceGuarantee": false,
+      "activeUpdateDate": "2019-06-21T08:49:18",
+      "regularPrice": 1799.99,
+      "salePrice": 1599.99,
+      "clearance": false,
+      "onSale": true,
+      "planPrice": null,
+      "priceWithPlan": [],
+      "contracts": [],
+      "priceRestriction": null,
+      "priceUpdateDate": "2019-12-09T00:02:09",
+      "digital": false,
+      "preowned": false,
+      "carriers": [],
+      "planFeatures": [],
+      "devices": [],
+      "carrierPlans": [],
+      "technologyCode": null,
+      "carrierModelNumber": null,
+      "earlyTerminationFees": [],
+      "monthlyRecurringCharge": "",
+      "monthlyRecurringChargeGrandTotal": "",
+      "activationCharge": "",
+      "minutePrice": "",
+      "planCategory": null,
+      "planType": null,
+      "familyIndividualCode": null,
+      "validFrom": null,
+      "validUntil": null,
+      "carrierPlan": null,
+      "outletCenter": null,
+      "secondaryMarket": null,
+      "frequentlyPurchasedWith": [],
+      "accessories": [],
+      "relatedProducts": [],
+      "requiredParts": [],
+      "techSupportPlans": [],
+      "crossSell": [],
+      "salesRankShortTerm": null,
+      "salesRankMediumTerm": null,
+      "salesRankLongTerm": null,
+      "bestSellingRank": null,
+      "url": "https://api.bestbuy.com/click/-/4599700/pdp",
+      "spin360Url": null,
+      "mobileUrl": "https://api.bestbuy.com/click/-/4599700/pdp",
+      "affiliateUrl": null,
+      "addToCartUrl": "https://api.bestbuy.com/click/-/4599700/cart",
+      "affiliateAddToCartUrl": null,
+      "linkShareAffiliateUrl": "",
+      "linkShareAffiliateAddToCartUrl": "",
+      "upc": "190199112216",
+      "productTemplate": "Laptop_Computers",
+      "categoryPath": [
+        {
+          "id": "cat00000",
+          "name": "Best Buy"
+        },
+        {
+          "id": "abcat0500000",
+          "name": "Computers & Tablets"
+        },
+        {
+          "id": "abcat0502000",
+          "name": "Laptops"
+        },
+        {
+          "id": "pcmcat138500050001",
+          "name": "All Laptops"
+        },
+        {
+          "id": "pcmcat247400050001",
+          "name": "MacBooks"
+        },
+        {
+          "id": "pcmcat378600050009",
+          "name": "MacBook Pro"
+        }
+      ],
+      "alternateCategories": [],
+      "lists": [],
+      "customerReviewCount": 409,
+      "customerReviewAverage": 4.8,
+      "customerTopRated": true,
+      "format": null,
+      "freeShipping": true,
+      "freeShippingEligible": true,
+      "inStoreAvailability": true,
+      "inStoreAvailabilityText": "Store Pickup:",
+      "inStoreAvailabilityUpdateDate": "2019-06-21T09:13:46",
+      "itemUpdateDate": "2019-12-13T17:52:32",
+      "onlineAvailability": true,
+      "onlineAvailabilityText": "Shipping: Usually ships in 1 business day",
+      "onlineAvailabilityUpdateDate": "2019-06-21T09:13:46",
+      "releaseDate": null,
+      "shippingCost": 0,
+      "shipping": [
+        {
+          "ground": 0,
+          "secondDay": "",
+          "nextDay": "",
+          "vendorDelivery": ""
+        }
+      ],
+      "shippingLevelsOfService": [
+        {
+          "serviceLevelId": 10,
+          "serviceLevelName": "Same Day",
+          "unitShippingPrice": 5.99
+        },
+        {
+          "serviceLevelId": 13,
+          "serviceLevelName": "One Day",
+          "unitShippingPrice": 0
+        }
+      ],
+      "specialOrder": false,
+      "shortDescription": "MacBook Pro with a new eighth-generation quad-core Intel processor. Power your best work.",
+      "class": "MOBILE COMPUTING",
+      "classId": 140,
+      "subclass": "APPLE",
+      "subclassId": 5075,
+      "department": "COMPUTERS",
+      "departmentId": 6,
+      "protectionPlanTerm": "13-",
+      "protectionPlanType": null,
+      "protectionPlanLowPrice": "",
+      "protectionPlanHighPrice": "",
+      "buybackPlans": [],
+      "protectionPlans": [],
+      "protectionPlanDetails": [],
+      "productFamilies": [],
+      "productVariations": [
+        {
+          "sku": "4599600",
+          "variations": [
+            {
+              "name": "Desktop_and_Laptop_Computers:Total_Storage_Capacity",
+              "value": "256GB"
+            },
+            {
+              "name": "Electronics:Color",
+              "value": "Silver"
+            }
+          ]
+        },
+        {
+          "sku": "4599700",
+          "variations": [
+            {
+              "name": "Desktop_and_Laptop_Computers:Total_Storage_Capacity",
+              "value": "256GB"
+            },
+            {
+              "name": "Electronics:Color",
+              "value": "Space Gray"
+            }
+          ]
+        },
+        {
+          "sku": "4599800",
+          "variations": [
+            {
+              "name": "Desktop_and_Laptop_Computers:Total_Storage_Capacity",
+              "value": "512GB"
+            },
+            {
+              "name": "Electronics:Color",
+              "value": "Silver"
+            }
+          ]
+        },
+        {
+          "sku": "4599901",
+          "variations": [
+            {
+              "name": "Desktop_and_Laptop_Computers:Total_Storage_Capacity",
+              "value": "512GB"
+            },
+            {
+              "name": "Electronics:Color",
+              "value": "Space Gray"
+            }
+          ]
+        },
+        {
+          "sku": "5998602",
+          "variations": [
+            {
+              "name": "Desktop_and_Laptop_Computers:Total_Storage_Capacity",
+              "value": "256GB"
+            },
+            {
+              "name": "Electronics:Color",
+              "value": "Silver"
+            }
+          ]
+        }
+      ],
+      "aspectRatio": null,
+      "screenFormat": null,
+      "lengthInMinutes": null,
+      "mpaaRating": null,
+      "plot": null,
+      "studio": null,
+      "theatricalReleaseDate": null,
+      "description": null,
+      "manufacturer": "Apple",
+      "modelNumber": "MV962LL/A",
+      "images": [
+        {
+          "rel": "Front_Zoom",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "579",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700_sd.jpg",
+          "primary": true
+        },
+        {
+          "rel": "Alt_View_Standard_14",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "225",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700cv14a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Standard_13",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "341",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700cv13a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Standard_12",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "469",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700cv12a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Standard_11",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "253",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700cv11a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Standard_10",
+          "unitOfMeasure": "pixels",
+          "width": "492",
+          "height": "500",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700cv10a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Front_Detail",
+          "unitOfMeasure": "pixels",
+          "width": "105",
+          "height": "61",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700_sc.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Front_Medium",
+          "unitOfMeasure": "pixels",
+          "width": "70",
+          "height": "41",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700fp.gif",
+          "primary": false
+        },
+        {
+          "rel": "Front_Standard",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "289",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700_sa.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Zoom_11",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "507",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700cv11d.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Zoom_10",
+          "unitOfMeasure": "pixels",
+          "width": "983",
+          "height": "1000",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700cv10d.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Zoom_14",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "450",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700cv14d.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Zoom_13",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "681",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700cv13d.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Zoom_12",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "938",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700cv12d.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Front_Thumbnail",
+          "unitOfMeasure": "pixels",
+          "width": "54",
+          "height": "31",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700_s.gif",
+          "primary": false
+        },
+        {
+          "rel": "Front_Large",
+          "unitOfMeasure": "pixels",
+          "width": "220",
+          "height": "127",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700_sb.jpg",
+          "primary": false
+        }
+      ],
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700_sa.jpg",
+      "largeFrontImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700_sd.jpg",
+      "mediumImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700fp.gif",
+      "thumbnailImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700_s.gif",
+      "largeImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700_sb.jpg",
+      "alternateViewsImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599700cv10d.jpg",
+      "angleImage": null,
+      "backViewImage": null,
+      "energyGuideImage": null,
+      "leftViewImage": null,
+      "accessoriesImage": null,
+      "remoteControlImage": null,
+      "rightViewImage": null,
+      "topViewImage": null,
+      "albumTitle": "MacBook Pro - 13\" Display with Touch Bar - Intel Core i5 - 8GB Memory - 256GB SSD",
+      "artistName": null,
+      "artistId": null,
+      "originalReleaseDate": null,
+      "parentalAdvisory": null,
+      "mediaCount": null,
+      "monoStereo": null,
+      "studioLive": null,
+      "condition": "New",
+      "inStorePickup": true,
+      "friendsAndFamilyPickup": true,
+      "homeDelivery": false,
+      "quantityLimit": 2,
+      "fulfilledBy": null,
+      "members": [],
+      "bundledIn": [],
+      "albumLabel": null,
+      "genre": null,
+      "color": "Space Gray",
+      "depth": "8.36 inches",
+      "dollarSavings": 0,
+      "percentSavings": "0.0",
+      "tradeInValue": "",
+      "height": "0.59 inches",
+      "orderable": "Available",
+      "weight": "3.02 pounds",
+      "shippingWeight": 5.5,
+      "width": "11.97 inches",
+      "warrantyLabor": "1 Year",
+      "warrantyParts": "1 Year",
+      "softwareAge": null,
+      "softwareGrade": null,
+      "platform": null,
+      "numberOfPlayers": null,
+      "softwareNumberOfPlayers": null,
+      "esrbRating": null,
+      "longDescription": "MacBook Pro has a new eighth-generation quad-core Intel processor with Turbo Boost up to 4.1GHz. A brilliant and colorful Retina display with True Tone technology for a more true-to-life viewing experience. The latest Apple-designed keyboard. And the versatile Touch Bar for more ways to be productive. It's Apple's most powerful 13-inch notebook. Pushed even further.",
+      "includedItemList": [
+        {
+          "includedItem": "61W USB-C power adapter"
+        },
+        {
+          "includedItem": "Apple MacBook Pro - 13\" Display with Touch Bar - Intel Core i5 - 8GB Memory - 256GB SSD"
+        },
+        {
+          "includedItem": "USB-C charge cable (2m)"
+        }
+      ],
+      "marketplace": null,
+      "listingId": null,
+      "sellerId": null,
+      "shippingRestrictions": null,
+      "proposition65WarningMessage": null,
+      "proposition65WarningType": "05",
+      "bluRayPlayer": false,
+      "bluetoothEnabled": true,
+      "displayType": "LED",
+      "energyStarQualified": true,
+      "headphoneJacks": true,
+      "mobileOperatingSystem": "Mac OS",
+      "screenSizeIn": 13.3
+    },
+    {
+      "sku": 4599800,
+      "score": null,
+      "productId": null,
+      "name": "Apple - MacBook Pro - 13\" Display with Touch Bar - Intel Core i5 - 8GB Memory - 512GB SSD (Latest Model) - Silver",
+      "source": "bestbuy",
+      "type": "HardGood",
+      "startDate": "2019-05-21",
+      "new": false,
+      "active": true,
+      "lowPriceGuarantee": false,
+      "activeUpdateDate": "2019-06-21T08:49:53",
+      "regularPrice": 1999.99,
+      "salePrice": 1999.99,
+      "clearance": false,
+      "onSale": false,
+      "planPrice": null,
+      "priceWithPlan": [],
+      "contracts": [],
+      "priceRestriction": null,
+      "priceUpdateDate": "2019-12-09T00:01:18",
+      "digital": false,
+      "preowned": false,
+      "carriers": [],
+      "planFeatures": [],
+      "devices": [],
+      "carrierPlans": [],
+      "technologyCode": null,
+      "carrierModelNumber": null,
+      "earlyTerminationFees": [],
+      "monthlyRecurringCharge": "",
+      "monthlyRecurringChargeGrandTotal": "",
+      "activationCharge": "",
+      "minutePrice": "",
+      "planCategory": null,
+      "planType": null,
+      "familyIndividualCode": null,
+      "validFrom": null,
+      "validUntil": null,
+      "carrierPlan": null,
+      "outletCenter": null,
+      "secondaryMarket": null,
+      "frequentlyPurchasedWith": [],
+      "accessories": [],
+      "relatedProducts": [],
+      "requiredParts": [],
+      "techSupportPlans": [],
+      "crossSell": [],
+      "salesRankShortTerm": null,
+      "salesRankMediumTerm": null,
+      "salesRankLongTerm": null,
+      "bestSellingRank": null,
+      "url": "https://api.bestbuy.com/click/-/4599800/pdp",
+      "spin360Url": null,
+      "mobileUrl": "https://api.bestbuy.com/click/-/4599800/pdp",
+      "affiliateUrl": null,
+      "addToCartUrl": "https://api.bestbuy.com/click/-/4599800/cart",
+      "affiliateAddToCartUrl": null,
+      "linkShareAffiliateUrl": "",
+      "linkShareAffiliateAddToCartUrl": "",
+      "upc": "190199115354",
+      "productTemplate": "Laptop_Computers",
+      "categoryPath": [
+        {
+          "id": "cat00000",
+          "name": "Best Buy"
+        },
+        {
+          "id": "abcat0500000",
+          "name": "Computers & Tablets"
+        },
+        {
+          "id": "abcat0502000",
+          "name": "Laptops"
+        },
+        {
+          "id": "pcmcat138500050001",
+          "name": "All Laptops"
+        },
+        {
+          "id": "pcmcat247400050001",
+          "name": "MacBooks"
+        },
+        {
+          "id": "pcmcat378600050009",
+          "name": "MacBook Pro"
+        }
+      ],
+      "alternateCategories": [],
+      "lists": [],
+      "customerReviewCount": 23,
+      "customerReviewAverage": 4.7,
+      "customerTopRated": true,
+      "format": null,
+      "freeShipping": true,
+      "freeShippingEligible": true,
+      "inStoreAvailability": true,
+      "inStoreAvailabilityText": "Store Pickup:",
+      "inStoreAvailabilityUpdateDate": "2019-12-09T15:16:14",
+      "itemUpdateDate": "2019-12-13T05:01:28",
+      "onlineAvailability": true,
+      "onlineAvailabilityText": "Shipping: Usually ships in 1 business day",
+      "onlineAvailabilityUpdateDate": "2019-12-03T00:26:14",
+      "releaseDate": null,
+      "shippingCost": 0,
+      "shipping": [
+        {
+          "ground": "",
+          "secondDay": 0,
+          "nextDay": 29.93,
+          "vendorDelivery": ""
+        }
+      ],
+      "shippingLevelsOfService": [
+        {
+          "serviceLevelId": 5,
+          "serviceLevelName": "One Day",
+          "unitShippingPrice": 29.93
+        },
+        {
+          "serviceLevelId": 14,
+          "serviceLevelName": "Two Day",
+          "unitShippingPrice": 0
+        }
+      ],
+      "specialOrder": false,
+      "shortDescription": "MacBook Pro with a new eighth-generation quad-core Intel processor. Power your best work.",
+      "class": "MOBILE COMPUTING",
+      "classId": 140,
+      "subclass": "APPLE",
+      "subclassId": 5075,
+      "department": "COMPUTERS",
+      "departmentId": 6,
+      "protectionPlanTerm": "13-",
+      "protectionPlanType": null,
+      "protectionPlanLowPrice": "",
+      "protectionPlanHighPrice": "",
+      "buybackPlans": [],
+      "protectionPlans": [],
+      "protectionPlanDetails": [],
+      "productFamilies": [],
+      "productVariations": [
+        {
+          "sku": "4599600",
+          "variations": [
+            {
+              "name": "Desktop_and_Laptop_Computers:Total_Storage_Capacity",
+              "value": "256GB"
+            },
+            {
+              "name": "Electronics:Color",
+              "value": "Silver"
+            }
+          ]
+        },
+        {
+          "sku": "4599700",
+          "variations": [
+            {
+              "name": "Desktop_and_Laptop_Computers:Total_Storage_Capacity",
+              "value": "256GB"
+            },
+            {
+              "name": "Electronics:Color",
+              "value": "Space Gray"
+            }
+          ]
+        },
+        {
+          "sku": "4599800",
+          "variations": [
+            {
+              "name": "Desktop_and_Laptop_Computers:Total_Storage_Capacity",
+              "value": "512GB"
+            },
+            {
+              "name": "Electronics:Color",
+              "value": "Silver"
+            }
+          ]
+        },
+        {
+          "sku": "4599901",
+          "variations": [
+            {
+              "name": "Desktop_and_Laptop_Computers:Total_Storage_Capacity",
+              "value": "512GB"
+            },
+            {
+              "name": "Electronics:Color",
+              "value": "Space Gray"
+            }
+          ]
+        },
+        {
+          "sku": "5998602",
+          "variations": [
+            {
+              "name": "Desktop_and_Laptop_Computers:Total_Storage_Capacity",
+              "value": "256GB"
+            },
+            {
+              "name": "Electronics:Color",
+              "value": "Silver"
+            }
+          ]
+        }
+      ],
+      "aspectRatio": null,
+      "screenFormat": null,
+      "lengthInMinutes": null,
+      "mpaaRating": null,
+      "plot": null,
+      "studio": null,
+      "theatricalReleaseDate": null,
+      "description": null,
+      "manufacturer": "Apple",
+      "modelNumber": "MV9A2LL/A",
+      "images": [
+        {
+          "rel": "Front_Zoom",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "579",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800_sd.jpg",
+          "primary": true
+        },
+        {
+          "rel": "Alt_View_Standard_14",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "225",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800cv14a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Standard_13",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "341",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800cv13a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Standard_12",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "469",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800cv12a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Standard_11",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "253",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800cv11a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Standard_10",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "466",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800cv10a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Front_Detail",
+          "unitOfMeasure": "pixels",
+          "width": "105",
+          "height": "61",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800_sc.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Front_Medium",
+          "unitOfMeasure": "pixels",
+          "width": "70",
+          "height": "41",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800fp.gif",
+          "primary": false
+        },
+        {
+          "rel": "Front_Standard",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "289",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800_sa.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Zoom_11",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "507",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800cv11d.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Zoom_10",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "932",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800cv10d.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Zoom_14",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "450",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800cv14d.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Zoom_13",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "681",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800cv13d.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Zoom_12",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "938",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800cv12d.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Front_Thumbnail",
+          "unitOfMeasure": "pixels",
+          "width": "54",
+          "height": "31",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800_s.gif",
+          "primary": false
+        },
+        {
+          "rel": "Front_Large",
+          "unitOfMeasure": "pixels",
+          "width": "220",
+          "height": "127",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800_sb.jpg",
+          "primary": false
+        }
+      ],
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800_sa.jpg",
+      "largeFrontImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800_sd.jpg",
+      "mediumImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800fp.gif",
+      "thumbnailImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800_s.gif",
+      "largeImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800_sb.jpg",
+      "alternateViewsImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599800cv10d.jpg",
+      "angleImage": null,
+      "backViewImage": null,
+      "energyGuideImage": null,
+      "leftViewImage": null,
+      "accessoriesImage": null,
+      "remoteControlImage": null,
+      "rightViewImage": null,
+      "topViewImage": null,
+      "albumTitle": "MacBook Pro - 13\" Display with Touch Bar - Intel Core i5 - 8GB Memory - 512GB SSD (Latest Model)",
+      "artistName": null,
+      "artistId": null,
+      "originalReleaseDate": null,
+      "parentalAdvisory": null,
+      "mediaCount": null,
+      "monoStereo": null,
+      "studioLive": null,
+      "condition": "New",
+      "inStorePickup": true,
+      "friendsAndFamilyPickup": true,
+      "homeDelivery": false,
+      "quantityLimit": 2,
+      "fulfilledBy": null,
+      "members": [],
+      "bundledIn": [],
+      "albumLabel": null,
+      "genre": null,
+      "color": "Silver",
+      "depth": "8.36 inches",
+      "dollarSavings": 0,
+      "percentSavings": "0.0",
+      "tradeInValue": "",
+      "height": "0.59 inches",
+      "orderable": "Available",
+      "weight": "3.02 pounds",
+      "shippingWeight": 5.6,
+      "width": "11.97 inches",
+      "warrantyLabor": "1 Year",
+      "warrantyParts": "1 Year",
+      "softwareAge": null,
+      "softwareGrade": null,
+      "platform": null,
+      "numberOfPlayers": null,
+      "softwareNumberOfPlayers": null,
+      "esrbRating": null,
+      "longDescription": "MacBook Pro has a new eighth-generation quad-core Intel processor with Turbo Boost up to 4.1GHz. A brilliant and colorful Retina display with True Tone technology for a more true-to-life viewing experience. The latest Apple-designed keyboard. And the versatile Touch Bar for more ways to be productive. It's Apple's most powerful 13-inch notebook. Pushed even further.",
+      "includedItemList": [
+        {
+          "includedItem": "61W USB-C power adapter"
+        },
+        {
+          "includedItem": "Apple MacBook Pro - 13\" Display with Touch Bar - Intel Core i5 - 8GB Memory - 512GB SSD (Latest Model)"
+        },
+        {
+          "includedItem": "USB-C charge cable (2m)"
+        }
+      ],
+      "marketplace": null,
+      "listingId": null,
+      "sellerId": null,
+      "shippingRestrictions": null,
+      "proposition65WarningMessage": null,
+      "proposition65WarningType": "05",
+      "bluRayPlayer": false,
+      "bluetoothEnabled": true,
+      "displayType": "LED",
+      "energyStarQualified": true,
+      "headphoneJacks": true,
+      "mobileOperatingSystem": "Mac OS",
+      "screenSizeIn": 13.3
+    },
+    {
+      "sku": 4599901,
+      "score": null,
+      "productId": null,
+      "name": "Apple - MacBook Pro - 13\" Display with Touch Bar - Intel Core i5 - 8GB Memory - 512GB SSD (Latest Model) - Space Gray",
+      "source": null,
+      "type": "HardGood",
+      "startDate": "2019-05-21",
+      "new": false,
+      "active": true,
+      "lowPriceGuarantee": false,
+      "activeUpdateDate": "2019-06-21T08:49:18",
+      "regularPrice": 1999.99,
+      "salePrice": 1999.99,
+      "clearance": false,
+      "onSale": false,
+      "planPrice": null,
+      "priceWithPlan": [],
+      "contracts": [],
+      "priceRestriction": null,
+      "priceUpdateDate": "2019-12-09T00:01:21",
+      "digital": false,
+      "preowned": false,
+      "carriers": [],
+      "planFeatures": [],
+      "devices": [],
+      "carrierPlans": [],
+      "technologyCode": null,
+      "carrierModelNumber": null,
+      "earlyTerminationFees": [],
+      "monthlyRecurringCharge": "",
+      "monthlyRecurringChargeGrandTotal": "",
+      "activationCharge": "",
+      "minutePrice": "",
+      "planCategory": null,
+      "planType": null,
+      "familyIndividualCode": null,
+      "validFrom": null,
+      "validUntil": null,
+      "carrierPlan": null,
+      "outletCenter": null,
+      "secondaryMarket": null,
+      "frequentlyPurchasedWith": [],
+      "accessories": [],
+      "relatedProducts": [],
+      "requiredParts": [],
+      "techSupportPlans": [],
+      "crossSell": [],
+      "salesRankShortTerm": null,
+      "salesRankMediumTerm": null,
+      "salesRankLongTerm": null,
+      "bestSellingRank": null,
+      "url": "https://api.bestbuy.com/click/-/4599901/pdp",
+      "spin360Url": null,
+      "mobileUrl": "https://api.bestbuy.com/click/-/4599901/pdp",
+      "affiliateUrl": null,
+      "addToCartUrl": "https://api.bestbuy.com/click/-/4599901/cart",
+      "affiliateAddToCartUrl": null,
+      "linkShareAffiliateUrl": "",
+      "linkShareAffiliateAddToCartUrl": "",
+      "upc": "190199113091",
+      "productTemplate": "Laptop_Computers",
+      "categoryPath": [
+        {
+          "id": "cat00000",
+          "name": "Best Buy"
+        },
+        {
+          "id": "abcat0500000",
+          "name": "Computers & Tablets"
+        },
+        {
+          "id": "abcat0502000",
+          "name": "Laptops"
+        },
+        {
+          "id": "pcmcat138500050001",
+          "name": "All Laptops"
+        },
+        {
+          "id": "pcmcat247400050001",
+          "name": "MacBooks"
+        },
+        {
+          "id": "pcmcat378600050009",
+          "name": "MacBook Pro"
+        }
+      ],
+      "alternateCategories": [],
+      "lists": [],
+      "customerReviewCount": 203,
+      "customerReviewAverage": 4.8,
+      "customerTopRated": true,
+      "format": null,
+      "freeShipping": true,
+      "freeShippingEligible": true,
+      "inStoreAvailability": true,
+      "inStoreAvailabilityText": "Store Pickup:",
+      "inStoreAvailabilityUpdateDate": "2019-06-21T09:13:46",
+      "itemUpdateDate": "2019-12-13T19:22:35",
+      "onlineAvailability": true,
+      "onlineAvailabilityText": "Shipping: Usually ships in 1 business day",
+      "onlineAvailabilityUpdateDate": "2019-06-21T09:13:46",
+      "releaseDate": null,
+      "shippingCost": 0,
+      "shipping": [
+        {
+          "ground": 0,
+          "secondDay": "",
+          "nextDay": "",
+          "vendorDelivery": ""
+        }
+      ],
+      "shippingLevelsOfService": [
+        {
+          "serviceLevelId": 10,
+          "serviceLevelName": "Same Day",
+          "unitShippingPrice": 5.99
+        },
+        {
+          "serviceLevelId": 13,
+          "serviceLevelName": "One Day",
+          "unitShippingPrice": 0
+        }
+      ],
+      "specialOrder": false,
+      "shortDescription": "MacBook Pro with a new eighth-generation quad-core Intel processor. Power your best work.",
+      "class": "MOBILE COMPUTING",
+      "classId": 140,
+      "subclass": "APPLE",
+      "subclassId": 5075,
+      "department": "COMPUTERS",
+      "departmentId": 6,
+      "protectionPlanTerm": "13-",
+      "protectionPlanType": null,
+      "protectionPlanLowPrice": "",
+      "protectionPlanHighPrice": "",
+      "buybackPlans": [],
+      "protectionPlans": [],
+      "protectionPlanDetails": [],
+      "productFamilies": [],
+      "productVariations": [
+        {
+          "sku": "4599600",
+          "variations": [
+            {
+              "name": "Desktop_and_Laptop_Computers:Total_Storage_Capacity",
+              "value": "256GB"
+            },
+            {
+              "name": "Electronics:Color",
+              "value": "Silver"
+            }
+          ]
+        },
+        {
+          "sku": "4599700",
+          "variations": [
+            {
+              "name": "Desktop_and_Laptop_Computers:Total_Storage_Capacity",
+              "value": "256GB"
+            },
+            {
+              "name": "Electronics:Color",
+              "value": "Space Gray"
+            }
+          ]
+        },
+        {
+          "sku": "4599800",
+          "variations": [
+            {
+              "name": "Desktop_and_Laptop_Computers:Total_Storage_Capacity",
+              "value": "512GB"
+            },
+            {
+              "name": "Electronics:Color",
+              "value": "Silver"
+            }
+          ]
+        },
+        {
+          "sku": "4599901",
+          "variations": [
+            {
+              "name": "Desktop_and_Laptop_Computers:Total_Storage_Capacity",
+              "value": "512GB"
+            },
+            {
+              "name": "Electronics:Color",
+              "value": "Space Gray"
+            }
+          ]
+        },
+        {
+          "sku": "5998602",
+          "variations": [
+            {
+              "name": "Desktop_and_Laptop_Computers:Total_Storage_Capacity",
+              "value": "256GB"
+            },
+            {
+              "name": "Electronics:Color",
+              "value": "Silver"
+            }
+          ]
+        }
+      ],
+      "aspectRatio": null,
+      "screenFormat": null,
+      "lengthInMinutes": null,
+      "mpaaRating": null,
+      "plot": null,
+      "studio": null,
+      "theatricalReleaseDate": null,
+      "description": null,
+      "manufacturer": "Apple",
+      "modelNumber": "MV972LL/A",
+      "images": [
+        {
+          "rel": "Front_Zoom",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "579",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901_sd.jpg",
+          "primary": true
+        },
+        {
+          "rel": "Alt_View_Standard_14",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "225",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901cv14a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Standard_13",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "341",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901cv13a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Standard_12",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "469",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901cv12a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Standard_11",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "253",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901cv11a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Standard_10",
+          "unitOfMeasure": "pixels",
+          "width": "492",
+          "height": "500",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901cv10a.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Front_Detail",
+          "unitOfMeasure": "pixels",
+          "width": "105",
+          "height": "61",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901_sc.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Front_Medium",
+          "unitOfMeasure": "pixels",
+          "width": "70",
+          "height": "41",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901fp.gif",
+          "primary": false
+        },
+        {
+          "rel": "Front_Standard",
+          "unitOfMeasure": "pixels",
+          "width": "500",
+          "height": "289",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901_sa.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Zoom_11",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "507",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901cv11d.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Zoom_10",
+          "unitOfMeasure": "pixels",
+          "width": "983",
+          "height": "1000",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901cv10d.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Zoom_14",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "450",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901cv14d.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Zoom_13",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "681",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901cv13d.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Alt_View_Zoom_12",
+          "unitOfMeasure": "pixels",
+          "width": "1000",
+          "height": "938",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901cv12d.jpg",
+          "primary": false
+        },
+        {
+          "rel": "Front_Thumbnail",
+          "unitOfMeasure": "pixels",
+          "width": "54",
+          "height": "31",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901_s.gif",
+          "primary": false
+        },
+        {
+          "rel": "Front_Large",
+          "unitOfMeasure": "pixels",
+          "width": "220",
+          "height": "127",
+          "href": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901_sb.jpg",
+          "primary": false
+        }
+      ],
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901_sa.jpg",
+      "largeFrontImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901_sd.jpg",
+      "mediumImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901fp.gif",
+      "thumbnailImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901_s.gif",
+      "largeImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901_sb.jpg",
+      "alternateViewsImage": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4599/4599901cv10d.jpg",
+      "angleImage": null,
+      "backViewImage": null,
+      "energyGuideImage": null,
+      "leftViewImage": null,
+      "accessoriesImage": null,
+      "remoteControlImage": null,
+      "rightViewImage": null,
+      "topViewImage": null,
+      "albumTitle": "MacBook Pro - 13\" Display with Touch Bar - Intel Core i5 - 8GB Memory - 512GB SSD (Latest Model)",
+      "artistName": null,
+      "artistId": null,
+      "originalReleaseDate": null,
+      "parentalAdvisory": null,
+      "mediaCount": null,
+      "monoStereo": null,
+      "studioLive": null,
+      "condition": "New",
+      "inStorePickup": true,
+      "friendsAndFamilyPickup": true,
+      "homeDelivery": false,
+      "quantityLimit": 2,
+      "fulfilledBy": null,
+      "members": [],
+      "bundledIn": [],
+      "albumLabel": null,
+      "genre": null,
+      "color": "Space Gray",
+      "depth": "8.36 inches",
+      "dollarSavings": 0,
+      "percentSavings": "0.0",
+      "tradeInValue": "",
+      "height": "0.59 inches",
+      "orderable": "Available",
+      "weight": "3.02 pounds",
+      "shippingWeight": 5.7,
+      "width": "11.97 inches",
+      "warrantyLabor": "1 Year",
+      "warrantyParts": "1 Year",
+      "softwareAge": null,
+      "softwareGrade": null,
+      "platform": null,
+      "numberOfPlayers": null,
+      "softwareNumberOfPlayers": null,
+      "esrbRating": null,
+      "longDescription": "MacBook Pro has a new eighth-generation quad-core Intel processor with Turbo Boost up to 4.1GHz. A brilliant and colorful Retina display with True Tone technology for a more true-to-life viewing experience. The latest Apple-designed keyboard. And the versatile Touch Bar for more ways to be productive. It's Apple's most powerful 13-inch notebook. Pushed even further.",
+      "includedItemList": [
+        {
+          "includedItem": "61W USB-C power adapter"
+        },
+        {
+          "includedItem": "Apple MacBook Pro - 13\" Display with Touch Bar - Intel Core i5 - 8GB Memory - 512GB SSD (Latest Model)"
+        },
+        {
+          "includedItem": "USB-C charge cable (2m)"
+        }
+      ],
+      "marketplace": null,
+      "listingId": null,
+      "sellerId": null,
+      "shippingRestrictions": null,
+      "proposition65WarningMessage": null,
+      "proposition65WarningType": "05",
+      "bluRayPlayer": false,
+      "bluetoothEnabled": true,
+      "displayType": "LED",
+      "energyStarQualified": true,
+      "headphoneJacks": true,
+      "mobileOperatingSystem": "Mac OS",
+      "screenSizeIn": 13.3
+    }
+  ]
+}

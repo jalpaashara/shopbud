@@ -1,4 +1,39 @@
 <ion-app>
+  <div *ngIf="showSplash" class="splash">
+    <ion-grid style="height: 100%" class="grid bg">
+      <ion-row class="ion-justify-content-center ion-margin-top" style="height: 45%"  >
+        <div class="box inner">
+          <div class="box outer">
+            <h1 class="appNAme">
+              ShopBud
+            </h1>
+          </div>
+        </div>
+      </ion-row>
+      <ion-row class="ion-justify-content-center ion-padding-start ion-margin-start ion-padding-end" style="height: 25%">
+        <h1 class="moto">
+          Thinking of buying.<br>
+          Compare Prices.
+        </h1>
+      </ion-row>
+      <ion-row>
+        <ion-col></ion-col>
+        <ion-col>
+          <div class="spinner">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+          </div>
+        </ion-col>
+        <ion-col></ion-col>
+      </ion-row>
+    </ion-grid>
+  </div>
+
+
+
+  <ion-nav [root]="rootPage" #content swipeBackEnabled="false"></ion-nav>
+
   <ion-split-pane contentId="main-content">
     <ion-menu contentId="main-content" type="overlay">
       <ion-header>

@@ -12,13 +12,14 @@ const routes: Routes = [
     loadChildren: () => import('./home/home.module').then(m => m.HomePageModule)
   },
   {
-    path: 'list',
+    path: 'about',
     loadChildren: () => import('./list/list.module').then(m => m.ListPageModule)
   }
 ];
 
 @NgModule({
   imports: [
+
     RouterModule.forRoot(routes, { preloadingStrategy: PreloadAllModules })
   ],
   exports: [RouterModule]

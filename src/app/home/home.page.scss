@@ -2,3 +2,68 @@
   max-height: 35vh;
   overflow: hidden;
 }
+
+.outerBox {
+  margin: 0 0 40px 0;
+}
+
+.box1 {
+  box-sizing: border-box;
+  min-height: 160px;
+  top: 0;
+  left: 0;
+  right: 0;
+  // padding-bottom: 60px;
+}
+
+.box2 {
+  display: block;
+  position: relative;
+  margin: -140px 0 -20px 0;
+  overflow: hidden;
+}
+
+
+.imgSize {
+  height:150px;
+  width: 125px;
+}
+
+.logoFont {
+  font-size: 19px;
+  color: white;
+  margin: 0;
+  marign-top: -40px;
+  padding: 0;
+  padding-left: 10px;
+  padding-top: -5px;
+  font-weight: bold;
+  text-transform: capitalize;
+  text-decoration: none;
+}
+
+.logo {
+  height: 50px;
+  padding-top: 15px;
+  padding-left: 20px;
+}
+.logoEBay {
+  height: 50px;
+  width: 90px;
+  padding-top: 15px;
+  padding-left: 13px;
+}
+
+.heading1 {
+  margin-bottom: 25px;
+  margin-top: 0px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.headebay {
+  background-color:#1f345f;
+  height: 70px;
+  border-color: #0bb8cc;
+  border-style: double;
+}

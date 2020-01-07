@@ -1,8 +1,9 @@
 import { Component } from '@angular/core';
 
-import { Platform } from '@ionic/angular';
+import {ModalController, Platform} from '@ionic/angular';
 import { SplashScreen } from '@ionic-native/splash-screen/ngx';
 import { StatusBar } from '@ionic-native/status-bar/ngx';
+import {timer} from 'rxjs';
 
 @Component({
   selector: 'app-root',
@@ -17,24 +18,30 @@ export class AppComponent {
       icon: 'home'
     },
     {
-      title: 'List',
-      url: '/list',
+      title: 'About',
+      url: '/about',
       icon: 'list'
     }
   ];
+    rootPage = 'HomePage';
+  showSplash = true;
 
   constructor(
     private platform: Platform,
     private splashScreen: SplashScreen,
-    private statusBar: StatusBar
+    private statusBar: StatusBar,
+    private modalController: ModalController
   ) {
     this.initializeApp();
   }
 
   initializeApp() {
     this.platform.ready().then(() => {
+
       this.statusBar.styleDefault();
-      this.splashScreen.hide();
+      this.splashScreen.hide();  // <-- hide static image
+
+      timer(3500).subscribe(() => this.showSplash = false); // <-- hide animation after 3s
     });
   }
 }

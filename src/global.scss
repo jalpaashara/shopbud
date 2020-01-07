@@ -24,3 +24,22 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+body{
+  font-family: "Market Sans", Arial, sans-serif;
+}
+
+ion-footer{
+  background-color: #3d3d3d;
+  color: #f1f1f1;
+  font-size: 16px;
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+}
+
+
+ion-button, ion-title, ion-menu-button {
+  background-color: #3d3d3d;
+  color: #f1f1f1;
+}

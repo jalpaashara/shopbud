@@ -4,24 +4,46 @@
       <ion-menu-button></ion-menu-button>
     </ion-buttons>
     <ion-title>
-      List
+      About
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content>
-  <ion-list>
-    <ion-item *ngFor="let item of items">
-      <ion-icon [name]="item.icon" slot="start"></ion-icon>
-      {{item.title}}
-      <div class="item-note" slot="end">
-        {{item.note}}
-      </div>
-    </ion-item>
-  </ion-list>
-  <!--
-    <div *ngIf="selectedItem" padding>
-      You navigated here from <b>{{selectedItem.title }}</b>
-    </div>
-  -->
+  <br/>
+  <!--<ion-card>
+    <ion-card-content>-->
+      <h2 class="about ion-text-justify">Planning on making a big investment on new appliance, phone, or anything,
+        Shopbud gives you price comparisons across major shopping sites like Amazon, eBay, and Best Buy
+        so that you can save for that extra cup of coffee!!
+        <br><br>
+        Happy Searching and Happy Shopping!
+      </h2>
+    <!--</ion-card-content>
+  </ion-card>-->
+
+  <br/>
+  <!--Feedback Form-->
+
+ <!-- <ion-card>
+    <ion-card-header>
+      Feedback
+    </ion-card-header>
+    <ion-card-content>
+
+      <form>
+        <ion-item>
+          <ion-input type="email" class="validate" ng-model="email" placeholder="Your Email"></ion-input>
+        </ion-item>
+
+        <ion-item>
+          <ion-textarea class="materialize-textarea" ng-model="message" placeholder="Your message here.."></ion-textarea>
+        </ion-item>
+        <ion-button type="submit" id="submit" expand="full" (click)="submitFeedback()">Submit</ion-button>
+      </form>
+    </ion-card-content>
+  </ion-card>-->
+
+
 </ion-content>
+<ion-footer>Copyright © Jalpa Ashara</ion-footer>

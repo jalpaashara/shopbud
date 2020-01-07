@@ -1,0 +1,106 @@
+.box{
+  border-color: #e0b500;
+  border-style: solid;
+  border-width: thick;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+.outer{
+  z-index: 1;
+  background-color: #1f345f;
+  top: -20px;
+  left: 12px;
+}
+.inner{
+  z-index: 2;
+  background-color: #1f345f;
+  // margin: 20% 20%;
+}
+.center{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.appNAme{
+  font-family: "Comic Sans", "Comic Sans MS", cursive;
+  color: #e0b500;
+  text-align: center;
+  line-height: 120px;
+  font-weight: bolder;
+  font-size: xx-large;
+  animation: moveTxt 2s;
+}
+@keyframes moveTxt {
+  50% {font: bolder large/100px Comic Sans MS,cursive;}
+}
+.button, body{
+  //margin-top: 120%;
+  // margin-left: 40%;
+  color: #f4c2c2;
+  background-color: #1f345f;
+}
+
+.moto{
+  color: #1f345f;
+  font-family: "Source Sans Pro", "Arial", sans-serif;
+}
+
+.grid{
+  padding-top: 20px;
+  margin-top: 40px;
+}
+
+.splash {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ff7400;
+}
+
+.spinner {
+  margin: 100px auto 0;
+  width: 70px;
+  text-align: center;
+}
+
+.spinner > div {
+  width: 15px;
+  height: 15px;
+  background-color: #1f345f;
+
+  border-radius: 100%;
+  display: inline-block;
+  -webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+  animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+}
+
+.spinner .bounce1 {
+  -webkit-animation-delay: -0.32s;
+  animation-delay: -0.32s;
+}
+
+.spinner .bounce2 {
+  -webkit-animation-delay: -0.16s;
+  animation-delay: -0.16s;
+}
+
+@-webkit-keyframes sk-bouncedelay {
+  0%, 80%, 100% { -webkit-transform: scale(0) }
+  40% { -webkit-transform: scale(1.0) }
+}
+
+@keyframes sk-bouncedelay {
+  0%, 80%, 100% {
+    -webkit-transform: scale(0);
+    transform: scale(0);
+  } 40% {
+      -webkit-transform: scale(1.0);
+      transform: scale(1.0);
+    }
+}
